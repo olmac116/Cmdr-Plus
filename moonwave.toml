@@ -1,5 +1,5 @@
-title = "Cmdr"
-gitRepoUrl = "https://github.com/evaera/cmdr"
+title = "Cmdrplus"
+gitRepoUrl = "https://github.com/olmac116/Cmdr-Plus"
 gitSourceBranch = "master"
 changelog = true
 
@@ -17,7 +17,7 @@ classOrder = [
 
 [docusaurus]
 organizationName = "evaera"
-projectName = "Cmdr"
+projectName = "Cmdrplus"
 deploymentBranch = "gh-pages"
 tagline = "The extensible command console for Roblox developers"
 titleDelimiter = "•"
